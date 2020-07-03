@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<heroes>
+  <hero_1 round="0" playing_style_1_enabled="False" playing_style_1_selected="RUN AWAY" random_alwayse_1="True">
+    <name>Abaddon</name>
+    <type>0</type>
+    <baseStr>23</baseStr>
+    <baseAgi>17</baseAgi>
+    <baseInt>21</baseInt>
+    <moveSpeed>310</moveSpeed>
+    <baseArmor>1.43</baseArmor>
+    <minDmg>55</minDmg>
+    <regeneration>1.5</regeneration>
+    <health>627.967259650467</health>
+    <maxHealth>627.967259650467</maxHealth>
+  </hero_1>
+  <hero_2 round="0" playing_style_2_enabled="False" playing_style_2_selected="RUN AWAY" random_alwayse_2="True">
+    <name>Ancient Apparition</name>
+    <type>2</type>
+    <baseStr>18</baseStr>
+    <baseAgi>20</baseAgi>
+    <baseInt>25</baseInt>
+    <moveSpeed>295</moveSpeed>
+    <baseArmor>1.86</baseArmor>
+    <minDmg>44</minDmg>
+    <regeneration>1.5</regeneration>
+    <health>455.8622</health>
+    <maxHealth>511.6122</maxHealth>
+  </hero_2>
+</heroes>

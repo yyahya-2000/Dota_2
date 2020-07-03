@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOME_WORK_CONTROL", "E:\first year hse\programing\Model 3\HOME_WORK_CONTROL\HOME_WORK_CONTROL\HOME_WORK_CONTROL\HOME_WORK_CONTROL.csproj", "{098DBE08-B439-4E12-98EB-D37020FBE0DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dota_Library_Classes", "E:\first year hse\programing\Model 3\HOME_WORK_CONTROL\HOME_WORK_CONTROL\Dota_Library_Classes\Dota_Library_Classes.csproj", "{727697A4-13EC-46B5-B844-B91C3ACE462D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{098DBE08-B439-4E12-98EB-D37020FBE0DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098DBE08-B439-4E12-98EB-D37020FBE0DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098DBE08-B439-4E12-98EB-D37020FBE0DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098DBE08-B439-4E12-98EB-D37020FBE0DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{727697A4-13EC-46B5-B844-B91C3ACE462D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727697A4-13EC-46B5-B844-B91C3ACE462D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727697A4-13EC-46B5-B844-B91C3ACE462D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727697A4-13EC-46B5-B844-B91C3ACE462D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CE50D41-239A-4ED4-A68C-CDEF24AD5F80}
+	EndGlobalSection
+EndGlobal

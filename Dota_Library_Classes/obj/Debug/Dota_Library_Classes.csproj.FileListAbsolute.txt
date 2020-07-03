@@ -1,0 +1,5 @@
+E:\first year hse\programing\Model 3\HOME_WORK_CONTROL\HOME_WORK_CONTROL\Dota_Library_Classes\obj\Debug\Dota_Library_Classes.csprojAssemblyReference.cache
+E:\first year hse\programing\Model 3\HOME_WORK_CONTROL\HOME_WORK_CONTROL\Dota_Library_Classes\bin\Debug\Dota_Library_Classes.dll
+E:\first year hse\programing\Model 3\HOME_WORK_CONTROL\HOME_WORK_CONTROL\Dota_Library_Classes\bin\Debug\Dota_Library_Classes.pdb
+E:\first year hse\programing\Model 3\HOME_WORK_CONTROL\HOME_WORK_CONTROL\Dota_Library_Classes\obj\Debug\Dota_Library_Classes.dll
+E:\first year hse\programing\Model 3\HOME_WORK_CONTROL\HOME_WORK_CONTROL\Dota_Library_Classes\obj\Debug\Dota_Library_Classes.pdb
